@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{78A5462C-F0BF-63CA-2257-209F3E48A33F}") = "Destruction Driver", "Assembly-CSharp-firstpass.csproj", "{F5605EDF-D755-4D57-54E0-C02C35E3F530}"
+EndProject
+Project("{78A5462C-F0BF-63CA-2257-209F3E48A33F}") = "Destruction Driver", "Assembly-CSharp.csproj", "{CF9F2B76-5FCE-1120-619B-39E8C981BCD7}"
+EndProject
+Project("{78A5462C-F0BF-63CA-2257-209F3E48A33F}") = "Destruction Driver", "Assembly-CSharp-Editor.csproj", "{01F95428-FC7D-B153-00E5-1BDC0BE358CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5605EDF-D755-4D57-54E0-C02C35E3F530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5605EDF-D755-4D57-54E0-C02C35E3F530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5605EDF-D755-4D57-54E0-C02C35E3F530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5605EDF-D755-4D57-54E0-C02C35E3F530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9F2B76-5FCE-1120-619B-39E8C981BCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9F2B76-5FCE-1120-619B-39E8C981BCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9F2B76-5FCE-1120-619B-39E8C981BCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9F2B76-5FCE-1120-619B-39E8C981BCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01F95428-FC7D-B153-00E5-1BDC0BE358CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01F95428-FC7D-B153-00E5-1BDC0BE358CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01F95428-FC7D-B153-00E5-1BDC0BE358CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01F95428-FC7D-B153-00E5-1BDC0BE358CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

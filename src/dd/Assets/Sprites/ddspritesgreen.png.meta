@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 4948d31c3991e2f49966c624df26afda
+timeCreated: 1452761579
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ddspritesgreen_0
+    21300002: ddspritesgreen_1
+    21300004: ddspritesgreen_2
+    21300006: ddspritesgreen_3
+    21300008: ddspritesgreen_4
+    21300010: ddspritesgreen_5
+    21300012: ddspritesgreen_6
+    21300014: ddspritesgreen_7
+    21300016: ddspritesgreen_8
+    21300018: ddspritesgreen_9
+    21300020: ddspritesgreen_10
+    21300022: ddspritesgreen_11
+    21300024: ddspritesgreen_12
+    21300026: ddspritesgreen_13
+    21300028: ddspritesgreen_14
+    21300030: ddspritesgreen_15
+    21300032: ddspritesgreen_16
+    21300034: ddspritesgreen_17
+    21300036: ddspritesgreen_18
+    21300038: ddspritesgreen_19
+    21300040: ddspritesgreen_20
+    21300042: ddspritesgreen_21
+    21300044: ddspritesgreen_22
+    21300046: ddspritesgreen_23
+    21300048: ddspritesgreen_24
+    21300050: ddspritesgreen_25
+    21300052: ddspritesgreen_26
+    21300054: ddspritesgreen_27
+    21300056: ddspritesgreen_28
+    21300058: ddspritesgreen_29
+    21300060: ddspritesgreen_30
+    21300062: ddspritesgreen_31
+    21300064: ddspritesgreen_32
+    21300066: ddspritesgreen_33
+    21300068: ddspritesgreen_34
+    21300070: ddspritesgreen_35
+    21300072: ddspritesgreen_36
+    21300074: ddspritesgreen_37
+    21300076: ddspritesgreen_38
+    21300078: ddspritesgreen_39
+    21300080: ddspritesgreen_40
+    21300082: ddspritesgreen_52
+    21300084: ddspritesgreen_53
+    21300086: ddspritesgreen_54
+    21300088: ddspritesgreen_55
+    21300090: ddspritesgreen_63
+    21300092: ddspritesgreen_70
+    21300094: ddspritesgreen_77
+    21300096: ddspritesgreen_41
+    21300098: ddspritesgreen_42
+    21300100: ddspritesgreen_43
+    21300102: ddspritesgreen_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ddspritesgreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_6
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 499
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_9
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 453
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 491
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_13
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 491
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 491
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 483
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_21
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_25
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_26
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 475
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_31
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 475
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_33
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_34
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 467
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 466
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 466
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_39
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 383
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_40
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 420
+        width: 228
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 424
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_53
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 351
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_54
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 351
+        width: 22
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_55
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 374
+        width: 124
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_63
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 312
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 319
+        width: 155
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_77
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 243
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_41
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 335
+        width: 138
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_42
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_43
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 483
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ddspritesgreen_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 297
+        width: 116
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

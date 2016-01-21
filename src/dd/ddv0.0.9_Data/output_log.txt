@@ -1,0 +1,66 @@
+Mono path[0] = 'C:/Users/Mike/Documents/the-uninvited-unity/robot/ddv0.0.9_Data/Managed'
+Mono path[1] = 'C:/Users/Mike/Documents/the-uninvited-unity/robot/ddv0.0.9_Data/Mono'
+Mono config path = 'C:/Users/Mike/Documents/the-uninvited-unity/robot/ddv0.0.9_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/Mike/Documents/the-uninvited-unity/robot/ddv0.0.9_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55287
+Multi-casting "[IP] 192.168.1.4 [Port] 55287 [Flags] 2 [Guid] 722255990 [EditorId] 3695549578 [Version] 1048832 [Id] WindowsPlayer(Mikes-HomeBrew) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.4:55287]
+Initialize engine version: 5.2.1f1 (44735ea161b3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1992 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.073 seconds
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Mike\Documents\the-uninvited-unity\robot\ddv0.0.9_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1548 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.575641 ms
+System memory in use before: 32.0 MB.
+System memory in use after: 32.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.264393 ms (FindLiveObjects: 0.031769 ms CreateObjectMapping: 0.022317 ms MarkObjects: 0.203480 ms  DeleteObjects: 0.005776 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.699711 ms
+System memory in use before: 32.0 MB.
+System memory in use after: 32.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.223435 ms (FindLiveObjects: 0.027305 ms CreateObjectMapping: 0.010764 ms MarkObjects: 0.178013 ms  DeleteObjects: 0.006301 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.680282 ms
+System memory in use before: 32.0 MB.
+System memory in use after: 32.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.222122 ms (FindLiveObjects: 0.025205 ms CreateObjectMapping: 0.009714 ms MarkObjects: 0.180376 ms  DeleteObjects: 0.005776 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.650088 ms
+System memory in use before: 32.0 MB.
+System memory in use after: 32.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.233674 ms (FindLiveObjects: 0.030193 ms CreateObjectMapping: 0.010239 ms MarkObjects: 0.185889 ms  DeleteObjects: 0.006301 ms)
+
